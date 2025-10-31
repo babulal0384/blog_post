@@ -1,0 +1,22 @@
+my_venv/
+# ========================
+# Django & Python Ignore
+# ========================
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+media/
+
+# ========================
+# Environment & Secret Files
+# ========================
+.env
+*.env
+.env.*
+
+# ========================
+# IDE / Editor Files
+# ========================
+.vscode/
+
